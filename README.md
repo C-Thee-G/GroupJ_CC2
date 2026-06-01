@@ -265,7 +265,8 @@ SELL Maize
 *Program startup showing the main interface*
 
 ### Queue Operations
-![Queue Operations](screenshots/queue_output.png)
+![Queue Operations](<img width="601" height="530" alt="harvest queue" src="https://github.com/user-attachments/assets/fb9b0f1c-f563-4cca-8f7e-f639d60cc5e8" />
+)
 *Enqueue and dequeue operations on harvest queue*
 
 ### Stack Operations  
