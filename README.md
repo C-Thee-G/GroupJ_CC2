@@ -1,4 +1,3 @@
-
 # 🌾 FARM MANAGEMENT SYSTEM
 ## APM11A1 - Advanced Programming
 ### Group J
@@ -35,7 +34,7 @@ The system manages:
 - Member 4: Zizile Ezona Mbanqi
 - Member 5: Keamogetse Selebano
 - Member 6: Hlonipho Nersley Bila
-- Member 6: Ndzulamo Michelle Yingwani
+- Member 7: Ndzulamo Michelle Yingwani
 
 ---
 
@@ -261,35 +260,32 @@ SELL Maize
 ## 📸 Screenshots
 
 ### Main Program Interface
-![Main Program](screenshots/main_output.png)
+![Main Program](https://github.com/user-attachments/assets/fb9b0f1c-f563-4cca-8f7e-f639d60cc5e8)
 *Program startup showing the main interface*
 
 ### Queue Operations
-![Queue Operations](<img width="601" height="530" alt="harvest queue" src="https://github.com/user-attachments/assets/fb9b0f1c-f563-4cca-8f7e-f639d60cc5e8" />
-)
+![Queue Operations](<img width="601" height="530" alt="harvest queue" src="https://github.com/user-attachments/assets/fdfb459a-7454-4f3b-9483-b98c143c319d" />)
 *Enqueue and dequeue operations on harvest queue*
 
 ### Stack Operations  
-![Stack Operations](screenshots/stack_output.png)
+![Stack Operations](<img width="488" height="322" alt="sales stack" src="https://github.com/user-attachments/assets/e54436d9-7834-4c7d-bf3c-ae71296c525b" />)
 *Push and pop operations on sales stack*
 
 ### Graph Traversal
-![Graph BFS/DFS](screenshots/graph_output.png)
+![Graph BFS/DFS](https://github.com/user-attachments/assets/your-graph-image-hash)
 *BFS and DFS traversal of irrigation network*
 
 ### Compiler Phases
-![Compiler Output](screenshots/compiler_output.png)
+![Compiler Output](https://github.com/user-attachments/assets/your-compiler-image-hash)
 *Lexical, syntax, and semantic analysis*
 
 ### Farm Array Management
-![Farm Records](screenshots/farmarray_output.png)
+![Farm Records](https://github.com/user-attachments/assets/your-farmarray-image-hash)
 *Insert, display, and search farm records*
 
 ### Summary Report
-![Final Report](screenshots/report_output.png)
+![Final Report](https://github.com/user-attachments/assets/your-report-image-hash)
 *Complete system status summary*
-
-> **Note:** To capture screenshots, run the program and use `Windows + Shift + S` or `Alt + PrtScn`. Save images in the `Documentation/screenshots/` folder.
 
 ---
 
@@ -446,107 +442,5 @@ This project was created for academic assessment at the University of Johannesbu
 **© 2026 Group J - University of Johannesburg**
 
 *Created with dedication for APM11A1 Advanced Programming*
-```
-
----
-
-## **QUICKSTART.txt (Simplified Version)**
-
-```text
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║              FARM MANAGEMENT SYSTEM - GROUP J                 ║
-║                     QUICK START GUIDE                         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-
-📁 PROJECT FILES
-═══════════════════════════════════════════════════════════════
-
-GroupJ_CC2/
-├── GroupJ_CC2.sln          ← Double-click to open in VS2022
-├── main.cpp                ← Program starts here
-├── HarvestQueue.h/cpp      ← Queue (FIFO)
-├── SalesStack.h/cpp        ← Stack (LIFO)  
-├── FarmGraph.h/cpp         ← Graph (BFS/DFS)
-├── FarmManager.h/cpp       ← Farm array (5 farms)
-├── Compiler.h/cpp          ← 3-phase compiler
-├── ConsoleColors.h/cpp     ← Colors for output
-└── Documentation/
-    ├── README.md           ← Full documentation
-    └── screenshots/        ← Place screenshots here
-
-🚀 RUN THE PROGRAM
-═══════════════════════════════════════════════════════════════
-
-1. Open Visual Studio 2022
-2. File → Open → Project/Solution → GroupJ_CC2.sln
-3. Build → Rebuild Solution
-4. Debug → Start Without Debugging (Ctrl+F5)
-
-🎨 COLOR GUIDE
-═══════════════════════════════════════════════════════════════
-
-🟢 GREEN  = Success / Working ✓
-🔴 RED    = Errors / Failures ✗
-🟡 YELLOW = Section Headers
-🔵 CYAN   = Data Display
-⚪ WHITE  = Farm Records
-
-📸 TAKE SCREENSHOTS
-═══════════════════════════════════════════════════════════════
-
-While program is running, capture:
-
-• Main program startup
-• Queue operations
-• Stack operations  
-• Graph BFS/DFS
-• Compiler phases
-• Thread execution
-• Farm array display
-• Final report
-
-Save as PNG in Documentation/screenshots/
-
-🎓 YOUTUBE CHANNELS WE USED
-═══════════════════════════════════════════════════════════════
-
-• The Cherno - C++ programming
-• WilliamFiset - Graph algorithms
-• mycodeschool - Data structures
-• Neso Academy - Compiler design
-• CodeVault - Multithreading
-• Gate Smashers - Syntax analysis
-
-🙏 SPECIAL THANKS
-═══════════════════════════════════════════════════════════════
-
-MR. DAVID TAOLE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Thank you for making Advanced Programming an amazing journey!
-
-Your teaching style makes complex concepts easy to understand.
-
-Best programming lecturer! 👏
-
-🔧 COMMON ISSUES
-═══════════════════════════════════════════════════════════════
-
-ERROR: 'byte' ambiguous symbol
-FIX: Add these to header files:
-     #define WIN32_LEAN_AND_MEAN
-     #define NOMINMAX
-
-ERROR: setColor already defined  
-FIX: Keep setColor only in ConsoleColors.cpp
-
-NO COLORS in output
-FIX: Run in Windows Console (not embedded terminal)
-
-═══════════════════════════════════════════════════════════════
-For full documentation, see README.md
-═══════════════════════════════════════════════════════════════
 ```
 
