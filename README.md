@@ -32,7 +32,10 @@ The system manages:
 - Member 1: Mongiwethu Eddy Ncube
 - Member 2: Sandile Sibeke  
 - Member 3: Bongane Sithole
-- Member 4: 
+- Member 4: Zizile Ezona Mbanqi
+- Member 5: Keamogetse Selebano
+- Member 6: Hlonipho Nersley Bila
+- Member 6: Ndzulamo Michelle Yingwani
 
 ---
 
