@@ -1,3 +1,4 @@
+
 # 🌾 FARM MANAGEMENT SYSTEM
 ## APM11A1 - Advanced Programming
 ### Group J
@@ -261,37 +262,24 @@ SELL Maize
 
 ### Main Program Interface
 ![Main Program](https://github.com/user-attachments/assets/fb9b0f1c-f563-4cca-8f7e-f639d60cc5e8)
-*Program startup showing the main interface*
 
-<img width="449" height="662" alt="farm array" src="https://github.com/user-attachments/assets/6abc12a0-7fb2-4348-a23c-bce9285670e1" />
+### Farm Array Display
+![Farm Array](https://github.com/user-attachments/assets/6abc12a0-7fb2-4348-a23c-bce9285670e1)
 
+### Harvest Queue Operations
+![Harvest Queue](https://github.com/user-attachments/assets/fdfb459a-7454-4f3b-9483-b98c143c319d)
 
-### Queue Operations
-![Queue Operations](<img width="601" height="530" alt="harvest queue" src="https://github.com/user-attachments/assets/fdfb459a-7454-4f3b-9483-b98c143c319d" />)
-*Enqueue and dequeue operations on harvest queue*
+### Sales Stack Operations
+![Sales Stack](https://github.com/user-attachments/assets/e54436d9-7834-4c7d-bf3c-ae71296c525b)
 
-### Stack Operations  
-![Stack Operations](<img width="488" height="322" alt="sales stack" src="https://github.com/user-attachments/assets/e54436d9-7834-4c7d-bf3c-ae71296c525b" />)
-*Push and pop operations on sales stack*
+### Compiler Simulation
+![Compiler Simulation](https://github.com/user-attachments/assets/ddca769b-7035-421b-b21f-b6b88419bf29)
 
-### Graph Traversal
-![Graph BFS/DFS](<img width="618" height="640" alt="compiler simulation" src="https://github.com/user-attachments/assets/ddca769b-7035-421b-b21f-b6b88419bf29" />
-)
-*BFS and DFS traversal of irrigation network*
-
-### Compiler Phases
-![Compiler Output](<img width="516" height="635" alt="irrigation" src="https://github.com/user-attachments/assets/718cda69-cef4-4b9e-a41a-9cb8a43ae739" />
-)
-*Lexical, syntax, and semantic analysis*
-
-### Farm Array Management
-![Farm Records](https://github.com/user-attachments/assets/your-farmarray-image-hash)
-*Insert, display, and search farm records*
+### Irrigation Graph
+![Irrigation Graph](https://github.com/user-attachments/assets/718cda69-cef4-4b9e-a41a-9cb8a43ae739)
 
 ### Summary Report
-![Final Report](<img width="562" height="666" alt="report1" src="https://github.com/user-attachments/assets/00a4d102-448e-4e8b-9cd7-affb5a26f0d8" />
-)
-*Complete system status summary*
+![Summary Report](https://github.com/user-attachments/assets/00a4d102-448e-4e8b-9cd7-affb5a26f0d8)
 
 ---
 
@@ -448,5 +436,3 @@ This project was created for academic assessment at the University of Johannesbu
 **© 2026 Group J - University of Johannesburg**
 
 *Created with dedication for APM11A1 Advanced Programming*
-```
-
