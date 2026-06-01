@@ -263,6 +263,9 @@ SELL Maize
 ![Main Program](https://github.com/user-attachments/assets/fb9b0f1c-f563-4cca-8f7e-f639d60cc5e8)
 *Program startup showing the main interface*
 
+<img width="449" height="662" alt="farm array" src="https://github.com/user-attachments/assets/6abc12a0-7fb2-4348-a23c-bce9285670e1" />
+
+
 ### Queue Operations
 ![Queue Operations](<img width="601" height="530" alt="harvest queue" src="https://github.com/user-attachments/assets/fdfb459a-7454-4f3b-9483-b98c143c319d" />)
 *Enqueue and dequeue operations on harvest queue*
@@ -272,11 +275,13 @@ SELL Maize
 *Push and pop operations on sales stack*
 
 ### Graph Traversal
-![Graph BFS/DFS](https://github.com/user-attachments/assets/your-graph-image-hash)
+![Graph BFS/DFS](<img width="618" height="640" alt="compiler simulation" src="https://github.com/user-attachments/assets/ddca769b-7035-421b-b21f-b6b88419bf29" />
+)
 *BFS and DFS traversal of irrigation network*
 
 ### Compiler Phases
-![Compiler Output](https://github.com/user-attachments/assets/your-compiler-image-hash)
+![Compiler Output](<img width="516" height="635" alt="irrigation" src="https://github.com/user-attachments/assets/718cda69-cef4-4b9e-a41a-9cb8a43ae739" />
+)
 *Lexical, syntax, and semantic analysis*
 
 ### Farm Array Management
@@ -284,7 +289,8 @@ SELL Maize
 *Insert, display, and search farm records*
 
 ### Summary Report
-![Final Report](https://github.com/user-attachments/assets/your-report-image-hash)
+![Final Report](<img width="562" height="666" alt="report1" src="https://github.com/user-attachments/assets/00a4d102-448e-4e8b-9cd7-affb5a26f0d8" />
+)
 *Complete system status summary*
 
 ---
